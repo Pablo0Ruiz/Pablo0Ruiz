@@ -38,4 +38,3 @@ Actualmente me estoy adentrando en el mundo del **Big Data**, aprendiendo tecnol
 - Desarrollo **experiencias full stack** con React, Next.js y Node.js.  
 - Me estoy especializando en **Big Data y análisis de datos** para manejar información a gran escala.  
 - Busco siempre **mejorar código limpio, escalable y eficiente**.  
-- Proyectos personales como **GasTrack**, app de gestión y visualización de estaciones de servicio.
